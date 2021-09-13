@@ -1,0 +1,21 @@
+{
+    "name": "aurora-borealis",
+    "displayName": "Aurora Borealis",
+    "description": "A VSCode theme based on the Northern Lights",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aurora Borealis",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aurora Borealis-color-theme.json"
+            }
+        ]
+    }
+}
