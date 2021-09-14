@@ -291,11 +291,14 @@
 		"input.placeholderForeground": "#89ccadaa",
 		"inputOption.activeBackground": "#0d5949aa",
 		"inputOption.activeForeground": "#60e7a8aa",
-		"inputValidation.errorBackground": "#882121",
+		"inputValidation.errorBorder": "#882121",
+		"inputValidation.infoBorder": "#212488",
+		"inputValidation.warningBorder": "#868821",
+		"inputValidation.errorBackground": "#030C0D",
 		"inputValidation.errorForeground": "#882121",
-		"inputValidation.infoBackground": "#212488",
+		"inputValidation.infoBackground": "#030C0D",
 		"inputValidation.infoForeground": "#212488",
-		"inputValidation.warningBackground": "#868821",
+		"inputValidation.warningBackground": "#030C0D",
 		"inputValidation.warningForeground": "#868821",
 
 		"issues.closed": "#882121",
@@ -470,7 +473,7 @@
 		"statusBar.noFolderForeground": "#5cffff66",
 
 		"statusBarItem.activeBackground": "#062121",
-		"statusBarItem.errorBackground": "#882121",
+		"statusBarItem.errorBackground": "#062121",
 		"statusBarItem.errorForeground": "#882121",
 		"statusBarItem.hoverBackground": "#041818",
 		"statusBarItem.prominentBackground": "#02130d",
@@ -479,9 +482,11 @@
 		"statusBarItem.remoteBackground": "#090f21",
 		"statusBarItem.remoteForeground": "#28389266",
 		"statusBarItem.warningBackground": "#868821",
-		"statusBarItem.warningForeground": "#868821",
+		// "statusBarItem.warningForeground": "#868821",
+		"statusBar.debuggingBorder": "#0f918a",
+		
 
-		"symbolIcon.arrayForeground": "#2c6663", // @TODO
+		"symbolIcon.arrayForeground": "#2c6663", // TODO
 		"symbolIcon.booleanForeground": "#2f3f80",
 		"symbolIcon.classForeground": "#25694f",
 		"symbolIcon.colorForeground": "#359166",
