@@ -483,8 +483,8 @@
 		"statusBarItem.remoteForeground": "#28389266",
 		"statusBarItem.warningBackground": "#868821",
 		// "statusBarItem.warningForeground": "#868821",
-		"statusBar.debuggingBorder": "#0f918a",
-		
+		"statusBar.debuggingBorder": "#0b4433",
+
 
 		"symbolIcon.arrayForeground": "#2c6663", // TODO
 		"symbolIcon.booleanForeground": "#2f3f80",
@@ -588,8 +588,7 @@
 
 		"widget.shadow": "#0b242166"
 	},
-	"tokenColors": [
-		{
+	"tokenColors": [ {
 			"name": "Terminator",
 			"scope": "punctuation.terminator.statement.js",
 			"settings": {
@@ -857,13 +856,13 @@
 				"foreground": "#4fa4cc"
 			}
 		},
-		
+
 		{
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#ddbb88"
+				"foreground": "#42635a"
 			}
 		},
 		{
@@ -892,7 +891,7 @@
 		},
 		{
 			"name": "class property",
-			"scope": ["variable.other.property","variable.other.object.property"],
+			"scope": [ "variable.other.property", "variable.other.object.property" ],
 			"settings": {
 				"foreground": "#2d9280"
 			}
@@ -1032,7 +1031,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#314e74"
 			}
 		},
 		{
